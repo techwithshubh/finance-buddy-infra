@@ -7,4 +7,4 @@ resources:
 images:
 - name: FINANCE_BUDDY_UI_IMAGE
   newName: techwithshubh/finance-ui
-  newTag: 0.0.2
+  newTag: bf1e933
