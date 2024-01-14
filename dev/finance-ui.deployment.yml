@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: finance-ui
-          image: techwithshubh/finance-ui:0.0.1
+          image: FINANCE_BUDDY_UI_IMAGE
           imagePullPolicy: Never
 ---
 apiVersion: v1
